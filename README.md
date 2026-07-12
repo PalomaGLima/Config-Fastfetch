@@ -27,17 +27,7 @@ Antes de aplicar a configuração, certifique-se de ter instalado:
 
 Siga os passos abaixo para aplicar esta configuração no seu sistema:
 
-### 1. Clonar o Repositório
-Abra o seu terminal e clone este repositório na sua máquina:
-```bash
-git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)
-cd NOME_DO_REPOSITORIO
-
-```
-
-*(Substitua `SEU_USUARIO` e `NOME_DO_REPOSITORIO` pelos seus dados reais do GitHub)*
-
-### 2. Fazer Backup da sua Configuração Atual (Segurança)
+### 1. Fazer Backup da sua Configuração Atual (Segurança)
 
 Caso você já tenha alguma configuração antiga do Fastfetch, guarde-a antes de substituir:
 
@@ -47,7 +37,7 @@ mv ~/.config/fastfetch/config.jsonc ~/.config/fastfetch/config.jsonc.bak 2>/dev/
 
 ```
 
-### 3. Aplicar o Novo `config.jsonc`
+### 2. Aplicar o Novo `config.jsonc`
 
 Copie o arquivo deste repositório diretamente para a sua pasta de configurações do Fastfetch:
 
