@@ -8,7 +8,7 @@ Sinta-se à vontade para usar como inspiração, clonar ou modificar para deixar
 
 ## 📸 Pré-visualização
 
-![Preview do Terminal](preview.png)
+![Preview do Terminal](viper.png)
 
 ---
 
