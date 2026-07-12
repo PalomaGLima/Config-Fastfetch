@@ -8,7 +8,6 @@ Sinta-se à vontade para usar como inspiração, clonar ou modificar para deixar
 
 ## 📸 Pré-visualização
 
-> ✨ **Dica:** Tire um print do seu terminal aberto mostrando o Fastfetch bonitinho, salve a imagem na pasta do seu repositório com o nome de `preview.png` e remova o comentário da linha abaixo para que as pessoas vejam o resultado antes de instalar!
 ![Preview do Terminal](preview.png)
 
 ---
