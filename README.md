@@ -128,7 +128,7 @@ Dentro do arquivo `config.jsonc`, você pode facilmente alterar:
 
 Se você gostou, deixe uma ⭐️ no repositório! Se encontrou algum bug ou tem sugestões de melhorias para o layout, sinta-se à livre para abrir uma **Issue** ou enviar um **Pull Request**.
 
-Criado com 💙 por [PalomaGLima](https://www.google.com/search?q=https://github.com/PalomaGLima).
+Criado com 💙 por [PalomaGLima](https://github.com/PalomaGLima).
 
 ```
 
