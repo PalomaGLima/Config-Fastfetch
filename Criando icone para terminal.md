@@ -40,7 +40,6 @@ A imagem precisa ser transformada em vetor.
 
 ## Sites para converter PNG → SVG
 
-### Opção 1:
 🔗 Link:
 https://convertio.co/pt/download/89f126be126e98d1def67476cb25230d95f572/
 
