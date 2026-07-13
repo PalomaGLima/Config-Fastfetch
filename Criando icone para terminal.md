@@ -120,12 +120,11 @@ Terminal:
 
 --bash--
 echo -e "\ue900"
-```
 
 Se aparecer o desenho:
 
 ✅ Fonte funcionando
-
+```
 ---
 
 # 7. Adicionar no Fastfetch
