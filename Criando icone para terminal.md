@@ -50,7 +50,6 @@ O SVG precisa ser formado por caminhos (`path`).
 🔗 Site:
 https://icomoon.io/app/#/select/font
 
-```
 Passos:
 
 1. Abrir o site
@@ -78,10 +77,10 @@ Resultado:
 \uE900
 
 7. Baixe a fonte
-```
+
 
 # 4. Instalar a fonte no Linux
-```
+
 Passos:
 
 1. Abra o seu Kitty
@@ -89,42 +88,48 @@ Passos:
 Criar pasta de fontes:
 
 --bash--
+```
 mkdir -p ~/.local/share/fonts
+```
 
 2. Coloque o icomoon.zip na pasta /var/home/SEU-USUARIO/.local/share/fonts/
 
 3. dentro do fonts extraia seu o arquivo icomoon.zip
-```
+
 # 5. Verificar se o ícone existe
-```
+
 Ver fontes instaladas:
 
 --bash--
+```
 fc-list
+```
 
 Verificar Unicode:
 
 --bash--
+```
 fc-query --format='%{charset}\n' ~/.local/share/fonts/icomoon/fonts/icomoon.ttf
-
+```
 Se aparecer:
 
 e900
 
 A fonte possui o ícone.
-```
+
 ---
 # 6. Testar o ícone
-```
+
 Terminal:
 
 --bash--
+```
 echo -e "\ue900"
-
+```
 Se aparecer o desenho:
 
 ✅ Fonte funcionando
-```
+
 ---
 
 # 7. Adicionar no Fastfetch
