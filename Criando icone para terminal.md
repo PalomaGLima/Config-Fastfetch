@@ -99,12 +99,12 @@ mkdir -p ~/.local/share/fonts
 
 Ver fontes instaladas:
 
-```bash
+--bash--
 fc-list
 
 Verificar Unicode:
 
-```bash
+--bash--
 fc-query --format='%{charset}\n' ~/.local/share/fonts/icomoon/fonts/icomoon.ttf
 
 Se aparecer:
