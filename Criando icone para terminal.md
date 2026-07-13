@@ -238,7 +238,3 @@ Agora seu terminal possui um ícone personalizado.
 ## 📸 Pré-visualização
 
 ![Preview do Terminal](imagemkitty.png)
-
-
-Esse README já está no formato para você colocar no GitHub ou deixar salvo na sua pasta de configuração do Fastfetch.
-```
