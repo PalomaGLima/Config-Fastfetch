@@ -81,7 +81,7 @@ Resultado:
 ```
 
 # 4. Instalar a fonte no Linux
-
+```
 Passos:
 
 1. Abra o seu Kitty
@@ -90,7 +90,6 @@ Criar pasta de fontes:
 
 ```bash
 mkdir -p ~/.local/share/fonts
-````
 
 2. Coloque o icomoon.zip na pasta /var/home/SEU-USUARIO/.local/share/fonts/
 
