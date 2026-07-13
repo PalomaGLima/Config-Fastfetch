@@ -88,7 +88,7 @@ Passos:
 
 Criar pasta de fontes:
 
-```bash
+--bash--
 mkdir -p ~/.local/share/fonts
 
 2. Coloque o icomoon.zip na pasta /var/home/SEU-USUARIO/.local/share/fonts/
