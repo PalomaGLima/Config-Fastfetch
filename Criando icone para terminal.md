@@ -35,8 +35,6 @@ Entre no site e escolha um icone da sua preferencia.
 🔗 Link:
 https://www.flaticon.com/search?word=cobra
 
-```
-
 # 2. Converter PNG para SVG
 
 A imagem precisa ser transformada em vetor.
