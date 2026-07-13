@@ -4,15 +4,15 @@ Este repositório está dividido em duas pastas principais para facilitar a loca
 
 ---
 
-### 🎨 1. Pasta `Config fastfetch` (Configurações do Sistema)
+### 🎨 1. Pasta `Config fastfetch`
 Esta pasta contém todos os arquivos de script e estruturação para deixar as informações do seu sistema organizadas e elegantes.
 
-* **`config.jsonc`**: O arquivo de configuração principal do Fastfetch. Ele define quais informações do seu computador serão exibidas (como CPU, GPU, RAM, Uptime e Distribuição) e organiza esses dados dentro de blocos visuais estilizados (com bordas de caixas `┌─`, `│`, `└─`).
 * **Instruções de Inicialização**: Orientações de como fixar esse arquivo no seu `~/.bashrc` para que ele abra automaticamente toda vez que você iniciar o terminal Kitty.
+* **`config.jsonc`**: O arquivo de configuração principal do Fastfetch. Ele define quais informações do seu computador serão exibidas (como CPU, GPU, RAM, Uptime e Distribuição) e organiza esses dados dentro de blocos visuais estilizados (com bordas de caixas `┌─`, `│`, `└─`).
 
 ---
 
-### ☠️ 2. Pasta `/creating a terminal icon` (Customização e Prompt)
+### ☠️ 2. Pasta `Creating a terminal icon`
 Esta pasta é dedicada à identidade visual, focando no que fica diretamente na frente do usuário durante o uso diário do terminal.
 
 * **Instruções de Inicialização**: O arquivo explica como criar um icone para ser usado antes do seu usuario no terminal do kitty.
